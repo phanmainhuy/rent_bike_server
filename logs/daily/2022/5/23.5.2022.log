@@ -1,0 +1,46 @@
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, total, avatar, rentdate, returndate, state, deleted_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND deleted_rental = 0 AND state = 0 ORDER BY `idrental` DESC","time":"16:36:39"}
+{"level":"info","message":"Select*from user","time":"16:36:39"}
+{"level":"info","message":"Select*from user","time":"16:36:39"}
+{"level":"info","message":"Select*from user","time":"16:36:39"}
+{"level":"info","message":"Select*from user","time":"16:36:39"}
+{"level":"info","message":"Select*from user","time":"16:36:39"}
+{"level":"info","message":"Select*from user","time":"16:36:39"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, total, avatar, rentdate, returndate, state, deleted_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND deleted_rental = 0 AND state = 0 ORDER BY `idrental` DESC","time":"16:43:50"}
+{"level":"info","message":"Select*from user","time":"16:43:50"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, total, avatar, rentdate, returndate, state, deleted_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND deleted_rental = 0 AND state = 0 ORDER BY `idrental` DESC","time":"16:43:50"}
+{"level":"info","message":"Select*from user","time":"16:43:50"}
+{"level":"info","message":"Select*from user","time":"16:43:50"}
+{"level":"info","message":"Select*from user","time":"16:43:50"}
+{"level":"info","message":"Select*from vehicle","time":"16:43:50"}
+{"level":"info","message":"Select*from vehicle","time":"16:43:50"}
+{"level":"info","message":"Select*from user","time":"16:43:50"}
+{"level":"info","message":"Select*from user","time":"16:43:50"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"Select*from vehicle","time":"16:43:50"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}

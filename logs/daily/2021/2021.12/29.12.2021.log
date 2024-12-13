@@ -1,0 +1,26 @@
+{"level":"info","message":"Select*from user","time":"2:40:34"}
+{"0":{"time":"2:40:34"},"1":{"id":"baotiantu@gmail.com"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"time":"2:40:34"},"1":{"email":"baotiantu@gmail.com"},"level":"info","message":"SELECT  id_user, password FROM user WHERE email = "}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"level":"info","message":"Select*from user","time":"9:24:7"}
+{"0":{"time":"9:24:7"},"1":{"email":"thanhlam@gmail.com"},"level":"info","message":"SELECT  id_user, password FROM user WHERE email = "}

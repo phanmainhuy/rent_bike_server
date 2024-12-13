@@ -1,0 +1,5 @@
+
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"0":"1","level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user"}

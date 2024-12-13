@@ -1,0 +1,168 @@
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"10:24:17"}
+{"level":"info","message":"Select*from user","time":"12:24:17"}
+{"level":"info","message":"Select*from user","time":"12:25:28"}
+{"level":"info","message":"Select*from user","time":"12:25:28"}
+{"0":{"time":"12:25:28"},"1":{"id":"44"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:23:0"}
+{"0":{"time":"13:23:0"},"1":{"id":"43"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:26:45"}
+{"level":"info","message":"Select*from user","time":"13:26:45"}
+{"level":"info","message":"Select*from user","time":"13:26:45"}
+{"0":{"time":"13:26:45"},"1":{"id":"42"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:27:41"}
+{"level":"info","message":"Select*from user","time":"13:27:41"}
+{"level":"info","message":"Select*from user","time":"13:27:41"}
+{"0":{"time":"13:29:42"},"1":{"id":"41"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:30:30"}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 2","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 2","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 3","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 3","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 4","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 4","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 5","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 5","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 6","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 6","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 7","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 7","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 8","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 8","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 9","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 9","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 10","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 10","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":"Select*from user","time":"13:30:30"}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 10","national":"VN","password":"123"}}
+{"0":{"time":"13:30:30"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 10","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":"Select*from user","time":"13:30:30"}
+{"level":"info","message":"Select*from user","time":"13:30:30"}
+{"level":"info","message":"Select*from user","time":"13:38:32"}
+{"0":{"time":"13:38:32"},"1":{"id":"61"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:39:52"}
+{"0":{"time":"13:39:52"},"1":{"id":"60"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:44:29"}
+{"0":{"time":"13:44:29"},"1":{"id":"59"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:45:49"}
+{"0":{"time":"13:45:49"},"1":{"id":"58"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:48:46"}
+{"0":{"time":"13:48:46"},"1":{"id":"57"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"0":{"time":"13:51:7"},"1":{"id":"56"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"0":{"time":"13:53:30"},"1":{"id":"55"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:53:53"}
+{"0":{"time":"13:53:53"},"1":{"id":"54"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"0":{"time":"13:55:33"},"1":{"id":"54"},"level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user","time":"13:55:33"}
+{"0":{"time":"13:55:33"},"1":{"id":"53"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"time":"13:55:33"},"1":{"id":"53"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:55:53"}
+{"level":"info","message":"Select*from user","time":"13:55:53"}
+{"level":"info","message":"Select*from user","time":"13:55:53"}
+{"0":{"time":"13:55:53"},"1":{"id":"52"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:56:28"}
+{"0":{"time":"13:59:19"},"1":{"id":"51"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"13:59:40"}
+{"0":{"time":"13:59:40"},"1":{"id":"40"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"14:4:49"}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}}
+{"0":{"time":"14:4:49"},"1":{"input":{"address":"49 MLB","avatar":"avatar.png","birthday":"fdsdfsdf","cmnd":"261515647","email":"nhuy@gmail.com","gender":"Nam","mobile":"0123433444","name":"test 1","national":"VN","password":"123"}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":"Select*from user","time":"14:4:49"}
+{"0":{"time":"14:4:49"},"1":{"id":"80"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"14:6:42"}
+{"0":{"time":"14:6:42"},"1":{"id":"79"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"0":{"time":"14:11:41"},"1":{"id":"78"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"14:12:47"}
+{"level":"info","message":"77"}
+{"0":{"time":"14:12:47"},"1":{"id":"77"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"14:12:47"}
+{"level":"info","message":"Select*from user","time":"14:16:13"}
+{"level":"info","message":"delete id required"}
+{"0":{"time":"14:16:13"},"1":{"id":"76"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"delete id required"}
+{"0":{"time":"14:16:13"},"1":{"id":"75"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"delete id required"}
+{"0":{"time":"14:16:13"},"1":{"id":"74"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"delete id required"}
+{"0":{"time":"14:16:13"},"1":{"id":"73"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"14:16:13"}
+{"level":"info","message":"delete id required"}
+{"0":{"time":"14:16:13"},"1":{"id":"72"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"14:18:50"}
+{"0":"70","level":"info","message":"delete id required"}
+{"0":{"time":"14:18:50"},"1":{"id":"70"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"14:32:23"}
+{"0":{"id":"69"},"level":"info","message":"id_user change avatar"}
+{"0":{"time":"14:32:23"},"1":{"input":{"avatar":"magician.png","id":"69"}},"level":"info","message":"UPDATE user SET avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"14:32:23"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"0":{"search":"Thanh"},"1":{"time":"15:40:56"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"0":{"id":"68"},"level":"info","message":"id_user change avatar"}
+{"0":{"time":"15:40:56"},"1":{"input":{"avatar":"magician.png","id":"68"}},"level":"info","message":"UPDATE user SET avatar = ? WHERE id_user = ? "}
+{"0":{"id":"67"},"level":"info","message":"id_user change avatar"}
+{"0":{"time":"15:40:56"},"1":{"input":{"avatar":"magician.png","id":"67"}},"level":"info","message":"UPDATE user SET avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"0":{"id":"69"},"level":"info","message":"delete id required"}
+{"0":{"time":"15:40:56"},"1":{"id":"69"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"15:40:56"}
+{"0":{"id":"68"},"level":"info","message":"delete id required"}
+{"0":{"time":"15:40:56"},"1":{"id":"68"},"level":"info","message":"DELETE FROM user WHERE id_user = "}
+{"level":"info","message":"Select*from user","time":"15:40:56"}

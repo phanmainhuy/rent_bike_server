@@ -1,0 +1,73 @@
+{"level":"info","message":"Select*from user","time":"8:52:8"}
+{"level":"info","message":"Select*from user","time":"8:52:8"}
+{"level":"info","message":"Select*from user","time":"8:52:8"}
+{"level":"info","message":"Select*from user","time":"11:29:25"}
+{"0":{"time":"11:29:25"},"1":{"email":"baotiantu@gmail.com"},"2":{"password":"123456"},"level":"info","message":"SELECT id_user FROM user WHERE email =  AND password = "}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"0":{"time":"11:32:10"},"1":{"id":"search"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"search":"21"},"1":{"time":"11:32:10"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"hao"},"1":{"time":"11:32:10"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"094846"},"1":{"time":"11:32:10"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"11:32:10"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"0":{"search":"ad"},"1":{"time":"14:34:40"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"as"},"1":{"time":"14:34:40"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"s"},"1":{"time":"14:34:40"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"x"},"1":{"time":"14:34:40"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"y"},"1":{"time":"14:34:40"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"time":"14:34:40"},"1":{"id":"search"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"time":"14:34:40"},"1":{"id":"search"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"search":"a"},"1":{"time":"14:34:40"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"14:34:40"}
+{"level":"info","message":"Select*from user","time":"15:15:34"}
+{"level":"info","message":"Select*from user","time":"15:15:34"}
+{"level":"info","message":"Select*from user","time":"15:15:34"}
+{"level":"info","message":"Select*from user","time":"15:15:34"}
+{"level":"info","message":"Select*from user","time":"15:15:34"}

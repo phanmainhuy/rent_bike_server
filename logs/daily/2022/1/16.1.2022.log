@@ -1,0 +1,4 @@
+{"0":{"id":"29"},"level":"info","message":"delete id required"}
+{"0":{"time":"21:19:20"},"1":{"id":"29"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-16 21:19:20\" WHERE id_user = ? "}
+{"0":{"id":"30"},"level":"info","message":"delete id required"}
+{"0":{"time":"21:19:20"},"1":{"id":"30"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-16 21:19:20\" WHERE id_user = ? "}

@@ -1,0 +1,123 @@
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"10:21:53"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"10:21:53"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"10:46:18"}
+{"0":{"search":"0948"},"1":{"time":"10:46:18"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" \" + \"OR mobile LIKE \"%\"?\"%\" OR price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:16:14"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:16:14"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:16:14"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:18:17"}
+{"0":{"search":"0948"},"1":{"time":"11:18:17"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" \" + \"OR mobile LIKE \"%\"?\"%\" OR price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"0948"},"1":{"time":"11:19:23"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:19:23"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:21:16"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:21:16"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:25:40"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:25:40"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:25:40"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, delete_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:25:40"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle ORDER BY `idrental` DESC","time":"11:27:56"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"11:33:18"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"11:33:18"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 1 ORDER BY `idrental` DESC","time":"11:33:46"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"11:34:30"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"11:34:30"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:24:30"}
+{"level":"info","message":"Select*from vehicle","time":"13:24:30"}
+{"level":"info","message":"Select*from user","time":"13:24:30"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:30:20"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:30:20"}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"Select*from user","time":"14:14:50"}
+{"0":{"time":"14:24:41"},"1":{"nam":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:25:7"},"1":{"nam":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:25:7"},"1":{"nam":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:25:7"},"1":{"nam":"09484"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:25:7"},"1":{"nam":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:29:57"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:29:57"},"1":{"mobile":"094846204"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:29:57"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:29:57"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:29:57"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:29:57"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:29:57"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:29:57"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:29:57"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:40:36"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:40:36"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:40:36"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:40:36"}
+{"0":{"time":"14:40:36"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:40:36"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:40:36"},"1":{"mobile":"8869985544"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"14:40:36"}
+{"0":{"time":"14:40:36"},"1":{"mobile":"8855555524"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"14:40:36"},"1":{"mobile":"8005544455"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"search":"0948"},"1":{"time":"15:5:57"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"Select*from vehicle","time":"15:5:57"}
+{"0":{"search":"0948"},"1":{"time":"15:8:50"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"time":"15:8:50"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT  * FROM user WHERE name like \"%\"?\"%\""}
+{"0":{"time":"15:11:11"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"15:11:11"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"15:11:11"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"15:11:11"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462840"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"Select*from user","time":"15:21:48"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"15:21:48"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"15:21:48"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"15:21:48"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"Select*from vehicle","time":"15:21:48"}
+{"level":"info","message":"Select*from user","time":"15:21:48"}
+{"0":{"time":"15:21:48"},"1":{"id":"29"},"level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"15:21:48"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"15:21:48"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}

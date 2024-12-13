@@ -1,0 +1,29 @@
+{"level":"info","message":"Select*from user","time":"8:33:1"}
+{"level":"info","message":"Select*from user","time":"8:33:1"}
+{"level":"info","message":"Select*from user","time":"8:33:1"}
+{"level":"info","message":"Select*from user","time":"8:33:1"}
+{"level":"info","message":"Select*from user","time":"8:33:1"}
+{"level":"info","message":"Select*from user","time":"8:33:1"}
+{"0":{"time":"8:33:1"},"1":{"id":"search"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"time":"8:33:1"},"1":{"id":"search"},"level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user","time":"8:38:20"}
+{"level":"info","message":"Select*from user","time":"8:38:20"}
+{"level":"info","message":"Select*from user","time":"20:46:15"}
+{"level":"info","message":"Select*from vehicle","time":"20:49:46"}
+{"0":{"search":"honda"},"1":{"time":"20:52:32"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" OR number LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"0":{"search":"86C1"},"1":{"time":"20:52:32"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" OR number LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"0":{"search":"30000"},"1":{"time":"20:52:32"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" OR number LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"0":{"search":"lead"},"1":{"time":"20:52:32"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" OR number LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"level":"info","message":"Select*from user","time":"21:12:33"}
+{"level":"info","message":"Select*from vehicle","time":"21:12:33"}
+{"0":{"search":"1"},"1":{"time":"21:12:33"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" OR number LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"Select*from vehicle","time":"21:13:42"}
+{"0":{"search":"1"},"1":{"time":"21:13:42"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" OR number LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"0":{"search":"1"},"1":{"time":"21:16:17"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" OR number LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"0":{"time":"21:16:17"},"1":{"id":"1"},"level":"info","message":"Select*from vehicle where id_vehicle = "}

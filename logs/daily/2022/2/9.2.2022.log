@@ -1,0 +1,8 @@
+{"level":"info","message":"Select*from rental","time":"0:0:2"}
+{"0":{"time":"0:0:2"},"1":{"input":{"avatarcus":"avatar.png","id_user":1,"id_vehicle":1,"namecus":"Phan Mai Như Ý","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-11-10T17:00:00.000Z","rentprice":300000,"returndate":"2021-11-10T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"level":"info","message":"Select*from rental","time":"0:0:2"}
+{"level":"info","message":"Select*from rental","time":"0:0:2"}
+{"level":"info","message":"Select*from rental","time":"0:0:2"}
+{"level":"info","message":"Select*from rental","time":"0:0:2"}
+{"level":"info","message":"Select*from rental","time":"0:0:2"}
+{"level":"info","message":"Select*from rental","time":"0:0:2"}

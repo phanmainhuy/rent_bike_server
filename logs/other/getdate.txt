@@ -1,0 +1,9 @@
+const d = new Date();
+
+
+const day = d.getDate();
+const month = d.getMonth();
+const year = d.getFullYear();
+const currentday = `${day}/${month}/${year}`;
+
+console.log(currentday);

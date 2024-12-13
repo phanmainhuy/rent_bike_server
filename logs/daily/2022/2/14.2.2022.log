@@ -1,0 +1,21 @@
+{"level":"info","message":"Select*from vehicle","time":"10:3:51"}
+{"level":"info","message":"Select*from vehicle","time":"10:3:51"}
+{"level":"info","message":"Select*from user","time":"10:3:51"}
+{"level":"info","message":"Select*from user","time":"10:3:51"}
+{"level":"info","message":"Select*from user","time":"10:3:51"}
+{"level":"info","message":"Select*from vehicle","time":"10:23:35"}
+{"level":"info","message":"Select*from vehicle","time":"10:23:35"}
+{"level":"info","message":"Select*from vehicle","time":"10:23:35"}
+{"level":"info","message":"Select*from user","time":"10:23:35"}
+{"level":"info","message":"Select*from user","time":"11:3:43"}
+{"0":{"time":"11:3:43"},"1":{"id":"18"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"time":"11:3:43"},"1":{"id":"16"},"level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user","time":"11:3:43"}
+{"0":"4951d411-07da-4d3b-a15e-8960dda4ba2d.png","level":"info","message":"image upload: "}
+{"0":{"id":"16"},"level":"info","message":"id_user change avatar"}
+{"0":{"time":"11:3:43"},"1":{"input":{"avatar":"4951d411-07da-4d3b-a15e-8960dda4ba2d.png","id":"16"}},"level":"info","message":"UPDATE user SET avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"11:3:43"}
+{"0":{"time":"11:3:43"},"1":{"id":"30"},"level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user","time":"11:3:43"}
+{"level":"info","message":"Select*from user","time":"11:3:43"}
+{"0":{"time":"11:3:43"},"1":{"id":"30"},"level":"info","message":"Select*from user where id_user = "}

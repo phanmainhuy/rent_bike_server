@@ -1,0 +1,57 @@
+{"level":"info","message":"message info"}
+{"level":"error","message":"message error"}
+{"level":"debug","message":"message debug"}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"0":"1","level":"info","message":"Select*from user where id_user = ?"}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"0":"1","level":"info","message":"Select*from user where id_user = ?"}
+{"0":"2","level":"info","message":"Select*from user where id_user = ?"}
+{"0":"3","level":"info","message":"Select*from user where id_user = ?"}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"0":"3","level":"info","message":"Select*from user where id_user = "}
+{"0":"30.23","level":"info","message":"Select*from user where id_user = "}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"0":"2","level":"info","message":"Select*from user where id_user = "}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"level":"info","message":"Select*from user"}
+{"0":"1","level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user"}
+{"0":"1","level":"info","message":"Select*from user where id_user = "}
+{"0":"13232","level":"info","message":"Select*from user where id_user = "}
+{"0":"2","level":"info","message":"Select*from user where id_user = "}
+{"level":"error","message":"error select*from user where id_user=?"}
+{"level":"info","message":"Select*from user"}
+{"0":"1","level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user"}
+{"0":"5","level":"info","message":"Select*from user where id_user = "}
+{"0":"5","level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user where id_user = "}
+{"0":"10","level":"info","message":"Select*from user where id_user = "}
+{"0":"10","level":"info","message":"Select*from user where id_user = "}
+{"0":"11","level":"info","message":"Select*from user where id_user = "}
+{"0":"2","level":"info","message":"Select*from user where id_user = "}
+{"0":"2","level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user"}
+{"level":"info","message":"Select*from user"}
+{"0":"4","level":"info","message":"Select*from user where id_user = "}
+{"0":"4","level":"info","message":"Select*from user where id_user = "}
+{"0":"3","level":"info","message":"Select*from user where id_user = "}
+{"0":"3","level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user"}
+{"level":"info","message":"Select*from user"}
+{"0":"2","level":"info","message":"Select*from user where id_user = "}
+{"0":"2","level":"info","message":"Select*from user where id_user = "}
+{"2":"10:25:56","level":"info","message":"Select*from user where id_user = "}
+{"1":"10:25:56","level":"info","message":"Select*from user where id_user = "}
+{"8":"11:33:42","level":"info","message":"Select*from user where id_user = "}
+{"0":"13:10:48","level":"info","message":"Select*from user"}
+{"0":"13:12:54","level":"info","message":"Select*from user"}

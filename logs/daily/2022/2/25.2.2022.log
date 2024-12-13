@@ -1,0 +1,190 @@
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"9:49:18"}
+{"0":{"time":"9:49:18"},"1":{"input":{"id_user":2,"id_vehicle":5,"rentdate":"2022-02-20","returndate":"2022-02-25"}},"level":"info","message":"INSERT INTO rental (id_user , id_vehicle, rentdate, returndate) VALUES (?, ?, ?, ?)"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"9:49:18"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"9:49:18"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"9:49:18"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}}
+{"0":{"time":"9:49:18"},"1":{"input":{}},"level":"info","message":"INSERT INTO user (name, mobile, email, password, birthday, gender, address, cmnd, national, avatar) VALUES "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"9:49:18"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"9:49:18"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"0":{"time":"9:49:18"},"1":{"input":{"id_user":1,"id_vehicle":6,"rentdate":"2022-02-20","returndate":"2022-02-25"}},"level":"info","message":"INSERT INTO rental (id_user , id_vehicle, rentdate, returndate) VALUES (?, ?, ?, ?)"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"9:49:18"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"0":{"time":"9:49:18"},"1":{"mobile":"0948462040"},"level":"info","message":"SELECT *FROM user WHERE mobile = ? AND deleted = 0 ORDER BY `id_user` ASC"}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT * FROM vehicle WHERE license_plate = ? "}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"9:49:18"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"9:49:18"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:10:51"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:10:51"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:10:51"}
+{"0":{"search":"100"},"1":{"time":"13:10:51"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"100"},"1":{"time":"13:10:51"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"100"},"1":{"time":"13:13:37"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"Select*from vehicle","time":"13:13:37"}
+{"level":"info","message":"Select*from vehicle","time":"13:13:37"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:13:37"}
+{"0":{"search":"150"},"1":{"time":"13:13:37"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"150"},"1":{"time":"13:13:37"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:14:53"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:15:57"}
+{"0":{"search":"100"},"1":{"time":"13:15:57"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"y"},"1":{"time":"13:15:57"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"a"},"1":{"time":"13:15:57"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"150"},"1":{"time":"13:15:57"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:15:57"}
+{"0":{"search":"150"},"1":{"time":"13:22:25"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"y"},"1":{"time":"13:22:25"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"y"},"1":{"time":"13:22:25"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"nhu"},"1":{"time":"13:22:25"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"150"},"1":{"time":"13:22:25"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"150"},"1":{"time":"13:22:25"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"100"},"1":{"time":"13:22:25"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"100"},"1":{"time":"13:24:33"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"150"},"1":{"time":"13:24:33"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"1111"},"1":{"time":"13:24:58"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"1111"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, rentdate, returndate, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND delete_rental = 0 ORDER BY `idrental` DESC","time":"13:26:44"}
+{"0":{"search":"nhu y"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT idrental, r.id_user, r.id_vehicle, name, mobile, name_vehicle, numb_regist, rent_price, avatar, delete_rental, deleted_rental_at FROM rental r, user u, vehicle v WHERE u.id_user = r.id_user AND v.id_vehicle = r.id_vehicle AND name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` DESC"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from vehicle","time":"13:26:44"}
+{"level":"info","message":"Select*from vehicle","time":"13:26:44"}
+{"level":"info","message":"Select*from vehicle","time":"13:26:44"}
+{"level":"info","message":"Select*from vehicle","time":"13:26:44"}
+{"level":"info","message":"Select*from vehicle","time":"13:26:44"}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR license_plate LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"level":"info","message":"Select*from vehicle","time":"13:26:44"}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM vehicle WHERE name LIKE \"%\"?\"%\" OR rent_price LIKE \"%\"?\"%\" OR license_plate LIKE \"%\"?\"%\" OR category LIKE \"%\"?\"%\" ORDER BY `name` ASC"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"a"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"nhu y"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"1"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"15"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 n"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 ng"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 ngo"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 ngoo"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 ngo"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 ngo"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 ng"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 ng"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 n"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 n"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150 "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"15"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"1"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"1"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"15"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"n"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"n"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"nh"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"nhu "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"nhu y"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"nhu y"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"15"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"1"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"15"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"15"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"150"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"15"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"asda"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"asda"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"asda"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"asda"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"a"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"phan "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"phan "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"phan "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"phan "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"phan "},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"phan ma"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"phan ma"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"phan ma"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"level":"info","message":"Select*from user","time":"13:26:44"}
+{"0":{"search":"ngo u"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo u"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo u"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo u"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo u"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo u"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo u"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo uye"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo uye"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo uye"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo uye"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo nguye"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo nguye"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"ngo nguye"},"1":{"time":"13:26:44"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}

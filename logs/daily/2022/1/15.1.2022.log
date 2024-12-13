@@ -1,0 +1,80 @@
+{"level":"info","message":"Select*from user","time":"12:22:54"}
+{"level":"info","message":"Select*from user","time":"12:22:54"}
+{"level":"info","message":"Select*from user","time":"12:23:50"}
+{"level":"info","message":"Select*from user","time":"12:44:26"}
+{"0":{"time":"12:51:27"},"1":{"err":{}},"level":"error","message":"Error Change avatar"}
+{"0":{"time":"12:51:27"},"1":{"err":{}},"level":"error","message":"Error Change avatar"}
+{"0":{"time":"12:51:27"},"level":"info","message":"Rollback successful"}
+{"0":{"id":"66"},"level":"info","message":"delete id required"}
+{"level":"info","message":"Select*from user","time":"12:51:27"}
+{"level":"info","message":"Select*from user","time":"12:51:27"}
+{"level":"info","message":"Select*from user","time":"12:51:27"}
+{"level":"info","message":"Select*from user","time":"12:51:27"}
+{"0":{"time":"12:53:32"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"12:53:32"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"12:53:32"},"level":"info","message":"Rollback successful"}
+{"0":{"id":"66"},"level":"info","message":"delete id required"}
+{"level":"info","message":"Select*from user","time":"12:53:32"}
+{"0":{"id":"65"},"level":"info","message":"delete id required"}
+{"0":{"time":"12:55:39"},"1":{},"level":"info","message":"UPDATE user SET deleted = 1 WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"12:55:39"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"12:59:58"}
+{"level":"info","message":"Select*from user","time":"20:7:23"}
+{"0":{"id":"64"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:7:23"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"20:7:23"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"20:7:23"},"level":"info","message":"Rollback successful"}
+{"level":"info","message":"Select*from user","time":"20:7:23"}
+{"0":{"id":"63"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:7:23"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"20:7:23"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"20:7:23"},"level":"info","message":"Rollback successful"}
+{"0":{"id":"63"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:9:38"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"20:9:38"},"1":{"err":{}},"level":"error","message":"Error delete"}
+{"0":{"time":"20:9:38"},"level":"info","message":"Rollback successful"}
+
+{"0":{"id":"63"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:17:44"},"1":{"id":"63"},"level":"info","message":"UPDATE user SET deleted = 1 AND deleted_at = \"2022-1-15 20:17:44\" WHERE id_user = ? "}
+{"0":{"id":"64"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:17:44"},"1":{"id":"64"},"level":"info","message":"UPDATE user SET deleted = 1 AND deleted_at = \"2022-1-15 20:17:44\" WHERE id_user = ? "}
+{"0":{"id":"64"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:20:43"},"1":{"id":"64"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:20:43\" WHERE id_user = ? "}
+{"0":{"id":"63"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:20:43"},"1":{"id":"63"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:20:43\" WHERE id_user = ? "}
+{"0":{"id":"65"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:20:43"},"1":{"id":"65"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:20:43\" WHERE id_user = ? "}
+{"0":{"id":"62"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:20:43"},"1":{"id":"62"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:20:43\" WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"20:23:31"}
+{"level":"info","message":"Select*from user","time":"20:23:31"}
+{"level":"info","message":"Select*from user","time":"20:25:55"}
+{"0":{"id":"28"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:25:55"},"1":{"id":"28"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:25:55\" WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"20:25:55"}
+{"0":{"id":"66"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:25:55"},"1":{"id":"66"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:25:55\" WHERE id_user = ? "}
+{"0":{"id":"27"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:25:55"},"1":{"id":"27"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:25:55\" WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"20:33:2"}
+{"0":{"id":"11"},"level":"info","message":"delete id required"}
+{"0":{"time":"20:33:2"},"1":{"id":"11"},"level":"info","message":"UPDATE user SET deleted = 1, deleted_at = \"2022-1-15 20:33:2\" WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"20:33:2"}
+{"0":{},"level":"info","message":"updateUser "}
+{"0":{"id":"29"},"level":"info","message":"id_user update"}
+{"0":{"time":"20:33:2"},"1":{"input":{"id":"29"}},"level":"info","message":"UPDATE user SET name =?, mobile =?, email = ?, password = ?, birthday = ?, gender = ?, address = ?, cmnd =?, national =?, avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"20:33:2"}
+{"0":{},"level":"info","message":"updateUser "}
+{"0":{"id":"29"},"level":"info","message":"id_user update"}
+{"0":{"time":"20:33:2"},"1":{"input":{"id":"29"}},"level":"info","message":"UPDATE user SET name =?, mobile =?, email = ?, password = ?, birthday = ?, gender = ?, address = ?, cmnd =?, national =?, avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"20:33:2"}
+{"level":"info","message":"Select*from user","time":"20:33:2"}

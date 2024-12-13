@@ -1,0 +1,49 @@
+{"0":"432e94d2-4b18-436d-b7b0-578673d70f32.png","level":"info","message":"image upload: "}
+{"0":{"name":"test name"},"level":"info","message":"updateUser "}
+{"0":{"id":"32"},"level":"info","message":"id_user update"}
+{"0":{"time":"0:7:30"},"1":{"input":{"avatar":"432e94d2-4b18-436d-b7b0-578673d70f32.png","id":"32","name":"test name"}},"level":"info","message":"UPDATE user SET name =?, mobile =?, email = ?, password = ?, birthday = ?, gender = ?, address = ?, cmnd =?, national =?, avatar = ? WHERE id_user = ? "}
+{"0":"c072ed8a-b78c-4e93-aa5d-519830b49933.png","level":"info","message":"image upload: "}
+{"0":{"name":"test name"},"level":"info","message":"updateUser "}
+{"0":{"id":"32"},"level":"info","message":"id_user update"}
+{"0":{"time":"0:7:30"},"1":{"input":{"avatar":"c072ed8a-b78c-4e93-aa5d-519830b49933.png","id":"32","name":"test name"}},"level":"info","message":"UPDATE user SET name =?, mobile =?, email = ?, password = ?, birthday = ?, gender = ?, address = ?, cmnd =?, national =?, avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"0:7:30"}
+{"0":"cb16ac31-22e2-4779-8fbd-f45cc87d0974.png","level":"info","message":"image upload: "}
+{"0":{"name":"test name"},"level":"info","message":"updateUser "}
+{"0":{"id":"32"},"level":"info","message":"id_user update"}
+{"0":{"time":"0:7:30"},"1":{"input":{"avatar":"cb16ac31-22e2-4779-8fbd-f45cc87d0974.png","id":"32","name":"test name"}},"level":"info","message":"UPDATE user SET name =?, mobile =?, email = ?, password = ?, birthday = ?, gender = ?, address = ?, cmnd =?, national =?, avatar = ? WHERE id_user = ? "}
+{"0":"dfba4b88-2b51-46e6-add6-6873a2ee4c91.png","level":"info","message":"image upload: "}
+{"0":{"name":"test name"},"level":"info","message":"updateUser "}
+{"0":{"id":"32"},"level":"info","message":"id_user update"}
+{"0":{"time":"0:7:30"},"1":{"input":{"avatar":"dfba4b88-2b51-46e6-add6-6873a2ee4c91.png","id":"32","name":"test name"}},"level":"info","message":"UPDATE user SET name =?, mobile =?, email = ?, password = ?, birthday = ?, gender = ?, address = ?, cmnd =?, national =?, avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"0:7:30"}
+{"level":"info","message":"Select*from user","time":"0:7:30"}
+{"level":"info","message":"Select*from user","time":"0:7:30"}
+{"level":"info","message":"Select*from user","time":"0:7:30"}
+{"0":{"search":"test"},"1":{"time":"3:27:41"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"search":"test"},"1":{"time":"3:27:41"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"level":"info","message":"Select*from user","time":"3:27:41"}
+{"level":"info","message":"Select*from user","time":"3:27:41"}
+{"level":"info","message":"Select*from user","time":"3:27:41"}
+{"level":"info","message":"Select*from user","time":"3:27:41"}
+{"level":"info","message":"Select*from user","time":"3:27:41"}
+{"level":"info","message":"Select*from user","time":"3:27:41"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"0":"6d486e23-9421-4c99-bfa2-769aa6cca9ee.png","level":"info","message":"image upload: "}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"0":"06dfb257-a8aa-4657-ad5b-5e271367a435.png","level":"info","message":"image upload: "}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"0":"4d7aecbf-b4bd-413c-bcb2-c4dd7a927af3.png","level":"info","message":"image upload: "}
+{"0":"4c48dce4-8ea7-4bb6-9440-b4554fb94c6a.png","level":"info","message":"image upload: "}
+{"0":{"id":"32"},"level":"info","message":"id_user change avatar"}
+{"0":{"time":"7:22:53"},"1":{"input":{"avatar":"4c48dce4-8ea7-4bb6-9440-b4554fb94c6a.png","id":"32"}},"level":"info","message":"UPDATE user SET avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"7:22:53"}
+{"0":"3b21d55f-b313-4beb-9a48-0957d62bb35e.png","level":"info","message":"image upload: "}

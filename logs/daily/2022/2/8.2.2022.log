@@ -1,0 +1,65 @@
+{"level":"info","message":"Select*from rental","time":"9:11:34"}
+{"level":"info","message":"Select*from user","time":"9:11:34"}
+{"level":"info","message":"Select*from rental","time":"9:11:34"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"0":{"search":"thanh"},"1":{"time":"10:44:40"},"level":"info","message":"SELECT  * FROM user WHERE name LIKE \"%\"?\"%\" OR mobile LIKE \"%\"?\"%\" OR email LIKE \"%\"?\"%\" OR cmnd LIKE \"%\"?\"%\""}
+{"0":{"time":"10:44:40"},"1":{"id":"30"},"level":"info","message":"Select*from user where id_user = "}
+{"0":{"address":"Phu Yen","birthday":"1982-10-17","cmnd":"215935846","email":"thanhlenguyen@gmail.com","gender":"Nam","mobile":"0948462048","name":"Nguyen Le Thúy","national":"VN","password":"123123"},"level":"info","message":"updateUser "}
+{"0":{"id":"30"},"level":"info","message":"id_user update"}
+{"0":{"time":"10:44:40"},"1":{"input":{"address":"Phu Yen","birthday":"1982-10-17","cmnd":"215935846","email":"thanhlenguyen@gmail.com","gender":"Nam","id":"30","mobile":"0948462048","name":"Nguyen Le Thúy","national":"VN","password":"123123"}},"level":"info","message":"UPDATE user SET name =?, mobile =?, email = ?, password = ?, birthday = ?, gender = ?, address = ?, cmnd =?, national =? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from rental","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"0":{"time":"10:44:40"},"1":{"id":"21"},"level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"0":"80c0724b-c231-4f58-be6f-d213706cf8ff.png","level":"info","message":"image upload: "}
+{"0":{"id":"21"},"level":"info","message":"id_user change avatar"}
+{"0":{"time":"10:44:40"},"1":{"input":{"avatar":"80c0724b-c231-4f58-be6f-d213706cf8ff.png","id":"21"}},"level":"info","message":"UPDATE user SET avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"0":{"time":"10:44:40"},"1":{"id":"11"},"level":"info","message":"Select*from user where id_user = "}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"0":"ff237745-371e-4e14-be62-0bc9bfe51d47.png","level":"info","message":"image upload: "}
+{"0":{"id":"11"},"level":"info","message":"id_user change avatar"}
+{"0":{"time":"10:44:40"},"1":{"input":{"avatar":"ff237745-371e-4e14-be62-0bc9bfe51d47.png","id":"11"}},"level":"info","message":"UPDATE user SET avatar = ? WHERE id_user = ? "}
+{"level":"info","message":"Select*from user","time":"10:44:40"}
+{"level":"info","message":"Select*from rental","time":"14:17:9"}
+{"0":{"time":"14:38:19"},"1":{"input":{"avatarcus":"avatar.png","id_user":1,"id_vehicle":1,"namecus":"Phan Mai Như Ý","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-11-10T17:00:00.000Z","rentprice":300000,"returndate":"2021-11-10T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"level":"info","message":"Select*from rental","time":"14:38:19"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"0":{"time":"14:38:51"},"1":{"input":{"avatarcus":"avatar.png","id_user":3,"id_vehicle":1,"namecus":"Test 1","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-08-02T17:00:00.000Z","rentprice":500000,"returndate":"2021-08-02T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"0":{"time":"14:38:51"},"1":{"input":{"avatarcus":"avatar.png","id_user":3,"id_vehicle":1,"namecus":"Test 3","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-08-02T17:00:00.000Z","rentprice":500000,"returndate":"2021-08-02T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"level":"info","message":"Select*from rental","time":"14:38:51"}
+{"0":{"search":"test3"},"1":{"time":"14:38:51"},"level":"info","message":"SELECT  * FROM rental WHERE namecus LIKE \"%\"?\"%\" OR phonecus LIKE \"%\"?\"%\" OR rentprice LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` ASC"}
+{"0":{"search":"test"},"1":{"time":"14:38:51"},"level":"info","message":"SELECT  * FROM rental WHERE namecus LIKE \"%\"?\"%\" OR phonecus LIKE \"%\"?\"%\" OR rentprice LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` ASC"}
+{"0":{"search":"test 3"},"1":{"time":"14:38:51"},"level":"info","message":"SELECT  * FROM rental WHERE namecus LIKE \"%\"?\"%\" OR phonecus LIKE \"%\"?\"%\" OR rentprice LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` ASC"}
+{"0":{"search":"test3"},"1":{"time":"14:38:51"},"level":"info","message":"SELECT  * FROM rental WHERE namecus LIKE \"%\"?\"%\" OR phonecus LIKE \"%\"?\"%\" OR rentprice LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` ASC"}
+{"0":{"search":"test 3"},"1":{"time":"14:38:51"},"level":"info","message":"SELECT  * FROM rental WHERE namecus LIKE \"%\"?\"%\" OR phonecus LIKE \"%\"?\"%\" OR rentprice LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` ASC"}
+{"0":{"time":"14:38:51"},"1":{"input":{"avatarcus":"avatar.png","id_user":3,"id_vehicle":1,"namecus":"Test 3","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-08-02T17:00:00.000Z","rentprice":500000,"returndate":"2021-08-02T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"0":{"search":"test 3"},"1":{"time":"14:49:36"},"level":"info","message":"SELECT  * FROM rental WHERE namecus LIKE \"%\"?\"%\" OR phonecus LIKE \"%\"?\"%\" OR rentprice LIKE \"%\"?\"%\" OR numb_regist LIKE \"%\"?\"%\" ORDER BY `idrental` ASC"}
+{"level":"info","message":"Select*from rental","time":"14:49:36"}
+{"0":{"time":"14:49:36"},"1":{"input":{"avatarcus":"avatar.png","id_user":3,"id_vehicle":1,"namecus":"Test 3","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-08-02T17:00:00.000Z","rentprice":500000,"returndate":"2021-08-02T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"level":"info","message":"Select*from rental","time":"14:49:36"}
+{"level":"info","message":"Select*from rental","time":"14:49:36"}
+{"0":{"time":"14:50:59"},"1":{"input":{"avatarcus":"avatar.png","id_user":3,"id_vehicle":1,"namecus":"Test 3","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-08-02T17:00:00.000Z","rentprice":500000,"returndate":"2021-08-02T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"0":{"time":"14:50:59"},"1":{"input":{"avatarcus":"avatar.png","id_user":3,"id_vehicle":1,"namecus":"Test 3","numb_regist":111,"phonecus":"0948462040","rentdate":"2021-08-02T17:00:00.000Z","rentprice":500000,"returndate":"2021-08-02T17:00:00.000Z"}},"level":"info","message":"INSERT INTO rental (id_user, namecus, id_vehicle, numb_regist, rentdate, returndate, rentprice, phonecus, avatarcus) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"}
+{"level":"info","message":"Select*from rental","time":"14:50:59"}
+{"level":"info","message":"Select*from user","time":"14:50:59"}
+{"level":"info","message":"Select*from rental","time":"14:50:59"}
